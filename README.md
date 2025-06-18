@@ -19,7 +19,7 @@ This project sends daily WhatsApp messages to help track Product Management and 
 Use Windows Task Scheduler to run this script daily and stay on track with your PM prep.
 
 ## ✨ Credits
-Crafted by Soumyendu Dey for hIS 60-day Product Management journey.
+Crafted by Soumyendu Dey for his 60-day Product Management journey.
 """ > README.md
 
 git add README.md
